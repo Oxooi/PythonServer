@@ -1,4 +1,3 @@
 # PythonServer
 
-I make a few Python scripts to : Create a Server & Client connection
-to understand the things behind : The sockets and Web interactions 
+I made some Python scripts to: Create a Server & Client connection to understand what's behind: Sockets and web interactions
